@@ -1,7 +1,8 @@
 # Install HDO Box on iOS (iPhone/iPad) Using a Windows Computer
 
 HDO Box is a versatile streaming app designed for iOS devices, including iPhone and iPad. This guide provides step-by-step instructions for installing HDO Box on iOS using Sideloadly, without jailbreaking your device. By following this method, you can sideload the app efficiently and securely.
-
+---
+Install HDO Box on iOS (iPhone/iPad)
 ---
 
 ## Legal Disclaimer
