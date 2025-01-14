@@ -1,28 +1,28 @@
-# Install HDO Box for iPhone/iPad using a Windows Computer
+# Install HDO Box on iOS (iPhone/iPad) Using a Windows Computer
 
-HDO Box is a popular app for streaming content that isn’t readily available on the App Store. This guide provides step-by-step instructions for installing HDO Box on your iPhone or iPad using Sideloadly, without jailbreaking your device. By following this method, you can sideload the app efficiently while maintaining your device's security.
+HDO Box is a versatile streaming app designed for iOS devices, including iPhone and iPad. This guide provides step-by-step instructions for installing HDO Box on iOS using Sideloadly, without jailbreaking your device. By following this method, you can sideload the app efficiently and securely.
 
 ---
 
 ## Legal Disclaimer
 
-HDO Box does not host, distribute, or provide any copyrighted content. This guide and tool are intended to help users sideload third-party apps for personal use only.  
-**Users are responsible for complying with local laws and regulations regarding the use of third-party applications.**
+HDO Box does not host, distribute, or provide any copyrighted content. This guide is solely for educational purposes to help users sideload third-party apps for personal use.  
+**Users are responsible for adhering to local laws and regulations regarding the use of third-party applications.**
 
 ---
 
 ## What is Sideloadly?
 
-Sideloadly is a trusted tool that allows users to install IPA files, such as HDO Box, onto iPhone or iPad without requiring jailbreak. It enables:
-- Installation of third-party apps like HDO Box.
-- Access to modified or restricted applications.
-- Sideloading apps safely without compromising device security.
+**Sideloadly** is a trusted tool that allows users to install IPA files, such as HDO Box, onto iPhone or iPad without requiring jailbreak. It enables:
+- Installing apps like HDO Box on iOS devices (iPhone and iPad).
+- Accessing modified or restricted applications.
+- Sideloading apps safely while maintaining your device’s security.
 
 ---
 
 ## Preparation Before Using Sideloadly
 
-Before starting, ensure you meet the following requirements:
+Before installing HDO Box on your iOS device, ensure you meet the following requirements:
 
 ### System Requirements:
 - A Windows PC running Windows 7 or later.
@@ -35,88 +35,77 @@ Before starting, ensure you meet the following requirements:
 
 ### iOS Device Requirements:
 - An iPhone or iPad running iOS 10 or later.
-- Ensure your device is logged into an Apple ID.
+- Ensure your iOS device is logged into an Apple ID.
 
 ### Sideloadly Tool:
-- Download the appropriate version of Sideloadly from its [official website](https://sideloadly.io):
-  - [Sideloadly x64 - Download](https://sideloadly.io)
-  - [Sideloadly x32 - Download](https://sideloadly.io)
+- Download the appropriate version of Sideloadly from its [official GitHub page](https://github.com).
 
 ---
 
-## Step-by-Step Guide to Install HDO Box IPA with Sideloadly
+## Step-by-Step Guide to Install HDO Box on iOS Using Sideloadly
 
-### Step 1: Connect Your Device to the Computer
+### Step 1: Connect Your iOS Device to Your PC
 - Use a Lightning or USB-C cable to connect your iPhone/iPad to your Windows PC.
-- Open iTunes to confirm your device is recognized.
+- Open iTunes to confirm your iOS device is recognized.
 
 ### Step 2: Install and Launch Sideloadly
-- Open Sideloadly after installation.
-- Verify that your device name, iOS version, and connection status are displayed in the Sideloadly interface.
+- Install Sideloadly on your Windows PC.
+- Launch the tool and verify your iOS device’s name and iOS version appear in the interface.
 
-### Step 3: Add the HDO Box IPA File
-- Drag and drop the HDO Box IPA file into Sideloadly or click "Browse" to locate the file.
+### Step 3: Load the HDO Box IPA File
+- Drag and drop the HDO Box IPA file into Sideloadly or use the "Browse" button to locate it.
 
 ### Step 4: Enter Your Apple ID
-- In the "Apple Account" field, input your Apple ID credentials.
-- Sideloadly will use this account to sign the IPA file.
+- Input your Apple ID in the "Apple Account" field.
+- Sideloadly will use this information to sign the IPA file for installation on your iOS device.
 
-### Step 5: Start the Installation Process
-- Click "Start" to begin the sideloading process.
-- Enter your Apple ID password if prompted.
+### Step 5: Start the Installation
+- Click the **Start** button to begin sideloading the app onto your iOS device.
+- If prompted, enter your Apple ID password to proceed.
 
-### Step 6: Complete Installation and Verify the App
-- After completion, the HDO Box app icon will appear on your device’s home screen.
-- If you encounter the “Untrusted Developer” error:
-  - Go to **Settings > General > Device Management**, select your Apple ID, and tap "Trust."
-- Enable Developer Mode if required (Settings > Privacy & Security > Developer Mode).
+### Step 6: Trust the Developer Profile
+- After installation, locate the HDO Box icon on your iOS home screen.
+- If you encounter the **“Untrusted Developer” error**:
+  - Go to **Settings > General > Device Management**.
+  - Select your Apple ID and tap "Trust."
+
+### Step 7: Enable Developer Mode (iOS 16+)
+- Navigate to **Settings > Privacy & Security > Developer Mode**.
+- Toggle Developer Mode to **On** and restart your device.
 
 ---
 
 ## Important Notes
 
 ### 7-Day Limitation:
-- If you are using a free Apple ID, the app will function for only 7 days. Reinstallation will be required afterward. Users with a paid Apple Developer account can bypass this limitation.
+- If using a free Apple ID, the app will function for only 7 days. Reinstallation will be required after this period.
+- Paid Apple Developer accounts can bypass this limitation.
 
-### Security Precautions:
-- Always use a secondary Apple ID for sideloading to protect your primary account.
-
-### App Compatibility:
-- Ensure the HDO Box IPA file is compatible with your iOS version to avoid errors.
-
-### Trusted Sources:
-- Download the HDO Box IPA and Sideloadly tool only from official and trusted sources to avoid malware or compromised files.
+### Security Recommendations:
+- Use a secondary Apple ID for sideloading to protect your primary account.
+- Download the HDO Box IPA file only from trusted sources to ensure security.
 
 ---
 
 ## Troubleshooting Common Issues
 
-### “Installation Failed” Error:
-- Ensure your device is properly connected and recognized by iTunes.
-- Verify the integrity of the HDO Box IPA file.
-- Restart your computer and device, then try again.
+- **Installation Fails on iOS:**
+  - Confirm your iOS device is properly connected and recognized by iTunes.
+  - Verify the HDO Box IPA file is not corrupted and retry the process.
 
-### “Invalid Argument” or “Unsupported File” Error:
-- Ensure the IPA file is compatible with your iOS version.
-- Redownload the IPA from a trusted source.
+- **Untrusted Developer Error:**
+  - Go to **Settings > General > Device Management**, select your Apple ID under developer profiles, and tap "Trust."
 
-### Device Not Recognized by Sideloadly:
-- Confirm iTunes is installed and working.
-- Reinstall iTunes if the issue persists.
-
-### “Untrusted Developer” Error:
-- Go to **Settings > General > Device Management**, find your Apple ID, and tap "Trust."
-
-### Apple ID Login Errors:
-- Double-check your credentials.
-- Use a secondary Apple ID if the problem continues.
+- **Apple ID Login Issues:**
+  - Ensure your credentials are correct.
+  - Use a secondary Apple ID if login problems persist.
 
 ---
 
 ## Acknowledgments
 
-- Thanks to [Sideloadly](https://sideloadly.io) for providing a safe and effective sideloading tool.
-- Special thanks to the open-source community for their support and resources.
+- Special thanks to [Sideloadly](https://github.com) for providing a reliable sideloading tool for iOS devices.
+- Thanks to the open-source community for their valuable contributions.
 
 ---
 
@@ -130,5 +119,6 @@ Before starting, ensure you meet the following requirements:
 
 ## Additional Notes
 
-- **HDO Box** is not affiliated with or endorsed by Apple or the App Store.
-- The information provided in this guide is for educational purposes only.
+- **HDO Box on iOS** (iPhone/iPad) is designed to provide seamless streaming without requiring a jailbreak.
+- This guide is intended for educational purposes only. Users should comply with all local laws and regulations.
+
